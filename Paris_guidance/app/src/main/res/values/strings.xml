@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Paris_guidance</string>
+    <string name="eiffel">THE EIFFEL TOWER</string>
+    <string name="catacomb">THE CATACOMBS OF PARIS</string>
+    <string name="musee">MUSEE DU LOUVRE</string>
+    <string name="pantheonn">THE PANTHEON - PARIS</string>
+    <string name="palace">PALACE OF VERSAILLES</string>
+    <string name="notre">NOTRE DAME CATHEDRAL OF PARIS</string>
+    <string name="pere">PERE LACHAISE CEMETERY</string>
+    <string name="crypty">CRYPTE ARCHEOLOGIQUE-PARIS</string>
+    <string name="sainte">SAINTE CHAPELLE</string>
+    <string name="museee">MUSEE DE CLUNY</string>
+
+    <string name="alexender">Cathedrale Saint-Alexandre-Nevsky</string>
+    <string name="chapelle">Chapelle de la Sorbonne</string>
+    <string name="dome">Dome des Invalides</string>
+    <string name="madeleine">Madeleine</string>
+    <string name="assomption">Notre-Dame de I-Assomption</string>
+    <string name="croix">Notre-Dame de la Croix</string>
+    <string name="paaris">Notre-Dame de Paris</string>
+    <string name="victories">Notre-Dame des Victoires</string>
+    <string name="travail">Notre-Dame du Travail</string>
+    <string name="pantheon">Pantheon</string>
+
+    <string name="caramels">CARAMELS</string>
+    <string name="butter">BORDIER BUTTER</string>
+    <string name="baguette">BAGUETTE,PAIN AU CHOCOLAT,AND PASTRIES</string>
+    <string name="chocolate">CHOCOLATE</string>
+    <string name="cheese">CHEESE</string>
+    <string name="wine">L-AVANT COMPTOIR WINE BAR</string>
+    <string name="macarons">MACARONS</string>
+    <string name="dinner">SPLURGE DINNER</string>
+    <string name="falafel">FALAFEL@ L-ASDU FALLAFEL</string>
+    <string name="dessert">DESSERT</string>
+
+    <string name="forum">FORUM DES HALLES</string>
+    <string name="center">CENTRE BEAUGRENELLE PARIS</string>
+    <string name="royal">VILLAGE ROYAL</string>
+    <string name="rive">MONTPARNASSE RIVE GAUCHE</string>
+    <string name="lourve">LA GALERIE DU CARROUSEL DU LOUVRE</string>
+    <string name="bercy">BERCY VILLAGE</string>
+    <string name="champs">CHAMPS-ELYSEES</string>
+    <string name="boutique">BOUTIQUES DU PALAIS DES CONGRES</string>
+    <string name="passage">LE PASSAGE DU HAVRE</string>
+    <string name="vallee">LA VALLEE VILLAGE</string>
+
+    <string name="pari">PARIS</string>
+    <string name="slogan_text">CITY OF LOVE</string>
+    <string name="slogan_text2">CLICK ON ANY:</string>
+    <string name="famous_plac">FAMOUS PLACES</string>
+    <string name="churc">CHURCHES</string>
+    <string name="bar">BARS</string>
+    <string name="mall">MALLS</string>
+</resources>
